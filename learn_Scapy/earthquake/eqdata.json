@@ -1,0 +1,22 @@
+[
+{"level": "3.1", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u957f\u5b81\u53bf", "longitude": "104.85", "latitude": "28.36", "depth": 10, "o_time": "2019-06-23 16:06:49"},
+{"level": "3.2", "location": "\u65b0\u7586\u514b\u5b5c\u52d2\u82cf\u5dde\u963f\u514b\u9676\u53bf", "longitude": "74.12", "latitude": "38.65", "depth": 8, "o_time": "2019-06-23 15:21:21"},
+{"level": "5.6", "location": "\u7f8e\u56fd\u52a0\u5229\u798f\u5c3c\u4e9a\u5dde", "longitude": "-124.25", "latitude": "40.31", "depth": 10, "o_time": "2019-06-23 11:53:03"},
+{"level": "4.6", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u73d9\u53bf", "longitude": "104.82", "latitude": "28.39", "depth": 14, "o_time": "2019-06-23 08:28:17"},
+{"level": "3.0", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u957f\u5b81\u53bf", "longitude": "104.81", "latitude": "28.44", "depth": 11, "o_time": "2019-06-23 00:12:51"},
+{"level": "3.0", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u957f\u5b81\u53bf", "longitude": "104.81", "latitude": "28.47", "depth": 13, "o_time": "2019-06-22 23:25:35"},
+{"level": "5.4", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u73d9\u53bf", "longitude": "104.77", "latitude": "28.43", "depth": 10, "o_time": "2019-06-22 22:29:56"},
+{"level": "3.6", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u73d9\u53bf", "longitude": "104.83", "latitude": "28.37", "depth": 8, "o_time": "2019-06-22 20:30:26"},
+{"level": "3.2", "location": "\u65b0\u7586\u548c\u7530\u5730\u533a\u76ae\u5c71\u53bf", "longitude": "77.81", "latitude": "37.62", "depth": 25, "o_time": "2019-06-22 17:53:57"},
+{"level": "3.0", "location": "\u65b0\u7586\u963f\u514b\u82cf\u5730\u533a\u5e93\u8f66\u53bf", "longitude": "83.64", "latitude": "41.14", "depth": 7, "o_time": "2019-06-22 12:10:58"},
+{"level": "3.4", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u73d9\u53bf", "longitude": "104.81", "latitude": "28.40", "depth": 7, "o_time": "2019-06-22 09:29:24"},
+{"level": "3.2", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u73d9\u53bf", "longitude": "104.82", "latitude": "28.41", "depth": 8, "o_time": "2019-06-22 09:28:04"},
+{"level": "3.0", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u73d9\u53bf", "longitude": "104.80", "latitude": "28.42", "depth": 8, "o_time": "2019-06-22 04:09:54"},
+{"level": "6.2", "location": "\u65b0\u897f\u5170\u514b\u9a6c\u5fb7\u514b\u7fa4\u5c9b\u6d77\u57df", "longitude": "-177.43", "latitude": "-30.84", "depth": 20, "o_time": "2019-06-21 16:37:17"},
+{"level": "3.6", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u73d9\u53bf", "longitude": "104.78", "latitude": "28.43", "depth": 8, "o_time": "2019-06-21 15:09:55"},
+{"level": "3.0", "location": "\u56db\u5ddd\u5185\u6c5f\u5e02\u8d44\u4e2d\u53bf", "longitude": "104.76", "latitude": "29.61", "depth": 9, "o_time": "2019-06-21 12:03:51"},
+{"level": "3.1", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u73d9\u53bf", "longitude": "104.80", "latitude": "28.41", "depth": 8, "o_time": "2019-06-21 10:01:36"},
+{"level": "3.4", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u957f\u5b81\u53bf", "longitude": "104.81", "latitude": "28.43", "depth": 10, "o_time": "2019-06-21 06:56:49"},
+{"level": "3.0", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u957f\u5b81\u53bf", "longitude": "104.80", "latitude": "28.43", "depth": 16, "o_time": "2019-06-21 03:28:55"},
+{"level": "2.9", "location": "\u56db\u5ddd\u5b9c\u5bbe\u5e02\u957f\u5b81\u53bf", "longitude": "104.79", "latitude": "28.46", "depth": 10, "o_time": "2019-06-21 03:24:50"}
+]
